@@ -7,5 +7,5 @@ import com.movie.review.model.Movie;
 
 @Repository
 public interface MovieRepo extends JpaRepository<Movie, Integer> {
-
+	
 }

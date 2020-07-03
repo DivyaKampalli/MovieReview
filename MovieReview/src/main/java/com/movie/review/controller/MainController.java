@@ -13,7 +13,7 @@ import com.movie.review.service.MovieService;
 @RestController
 public class MainController {
 	
-	@Autowired
+	@Autowired//
 	private MovieService movieService;
 	
 

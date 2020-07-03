@@ -10,7 +10,7 @@ import com.movie.review.repository.MovieRepo;
 
 @Component
 public class MovieServiceImpl implements MovieService {
-
+//
 	@Autowired
 	private MovieRepo movieRepo;
 	
